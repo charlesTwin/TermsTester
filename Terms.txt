@@ -1,0 +1,51 @@
+Amazon VPC	Logically isolated cloud IP subnet. Can include gateways and security groups.
+Amazon Kinesis Data Streams	Serverless streaming data service that simplifies the capture, processing and storage of data streams.
+AWS Direct Connect	Private network connection service that is an alternative to the public internet. Connecting your data center to the AWS network.
+Amazon OpenSearch Service	Service to run and scale the search and analytics engine clusters. Provides direct access to the API.
+Amazon Workspaces	Amazon answer to VDI allowing deployment of Windows, Linux desktops to users. Core is a set of VDI API's.
+Amazon Machine Image (AMI)	A virtual machine image template provided by AWS, used to deploy a EC2 virtual machine .
+AWS Budgets	Track your costs and usage and be alerted after exceeding a threshold. Helps keep an eye on your budgets.
+Amazon Elastic Block Store (EBS)	Easy to use expandable block level storage solution used with EC2 cloud servers for persistent data.
+Network Access Control List (ACL)	Rules that allow or deny specific inbound or outbound traffic to a network subnet, like a VCP.
+Security Groups	Acts as a firewall that controls the traffic allowed to and from the resources in your virtual private cloud (VPC).
+Amazon RDS	A web service that makes it easy to set up, operate, and scale a relational database in the AWS Cloud.
+Databases Available	RDS, Aurora, ElastiCache, DynamoDB, Quantum Ledger, Redshift, DocumentDB, TimeStream.
+Automated backups	Amazon RDS automatically creates a storage volume snapshot of your DB instance, backing up the entire DB instance and not just individual databases. This backup occurs during a daily user-configurable 30 minute period known as the backup window.
+Amazon S3	A cloud object storage service with industry-leading scalability, data availability, security, and performance. 
+Amazon Aurora	A global-scale relational database service built for the cloud with full MySQL and PostgreSQL compatibility.
+Amazon ElastiCache for Memcached	Works as an in-memory data store and cache to support the most demanding applications requiring sub-millisecond response times.
+Amazon Elastic File System (EFS)	A service that automatically grows and shrinks file systems as you add and remove files with no need for management or provisioning. Available on premise or in the cloud.
+Amazon DynamoDB	A fully managed, serverless, key-value NoSQL database designed to run high-performance applications at any scale. And, offers built-in security, continuous backups, automated multi-Region replication, in-memory caching, and data import and export tools.
+Amazon QuickSight	A cloud-native, serverless, business intelligence (BI) with native machine learning (ML) integrations and usage-based pricing.
+AWS TrustedAdvisor	Evaluates your account by using checks. These checks identify ways to optimize your AWS infrastructure, improve security and performance, reduce costs, and monitor service quotas.
+AWS Organizations	An account management service that enables you to consolidate multiple AWS accounts into an organization that you create and centrally manage.
+AWS Online Tech Talks	Cover a wide range of topics and expertise levels through technical deep dives, demos, customer examples, and live Q&A with AWS experts.
+Amazon Redshift	 A fully managed, petabyte-scale data warehouse service in the cloud. Can use existing data warehouses, operational databases, and data lakes.
+Amazon Quantum Ledger Database	 A fully managed accounting database that provides a transparent, immutable, and cryptographically verifiable transaction log.
+AWS Glue	A serverless data integration service that makes it easy to discover, prepare, move, and integrate data from multiple sources for analytics, machine learning, and application development.
+AWS Spot Instances	 An instance that uses spare EC2 capacity that is available for less than the On-Demand price. A way to lower your Amazon EC2 costs significantly.
+On-Demand Instances	Option that let's you pay for compute capacity by the hour or second (minimum of 60 seconds) with no long-term commitments.
+AWS IAM Access Analyzer	Tool that helps you identify the resources in your organization and accounts, such as Amazon S3 buckets or IAM roles, shared with an external entity. This lets you identify unintended access to your resources and data, which is a security risk.
+AWS Service Catalog	Allows organizations to centrally manage commonly deployed IT services, and helps organizations achieve consistent governance and meet compliance requirements.
+AWS Systems Manager	Provides a browser-based interactive shell, CLI and browser based remote desktop access for managing instances on your cloud, or on-premises and edge devices, without the need to open inbound ports, manage Secure Shell (SSH) keys, or use bastion hosts.
+AWS Region	A separate geographic area that is made up of multiple, isolated locations known as Availability Zones.
+AWS DataSync	A secure, online service that automates and accelerates moving data between on premises and AWS Storage services.
+AWS Direct Connect	A networking service that provides an alternative to using the internet to connect to AWS. Data that would have previously been transported over the internet is delivered through a private network connection between your facilities and AWS.
+AWS Snowball	A petabyte-scale data transport service that uses secure devices to transfer large amounts of data into and out of the AWS Cloud.
+AWS CloudFront	A web service and CDN that speeds up distribution of your web content through low latency edge locations. 
+AWS WAF	web Application firewall that helps protect web applications from attacks by allowing you to configure rules that allow, block, or monitor (count) web requests based on conditions that you define.
+AWS Secrets Manager	 This service enables you to easily rotate, manage, and retrieve database credentials, API keys, and other secrets throughout their lifecycle.
+AWS GuardDuty	Threat detection service that continuously monitors for malicious activity and unauthorized behavior to protect your AWS accounts, Amazon Elastic Compute Cloud (EC2) workloads, container applications, Amazon Aurora databases, and S3 data.
+AWS Shield	A managed distributed denial of service (DDoS) protection service that safeguards applications running on AWS.
+AWS IoT Core	A managed cloud service that lets connected devices easily and securely interact with cloud applications and other devices. Support billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices.
+AWS WaveLength	AWS infrastructure deployments that embed AWS compute and storage services within telecommunications providers' data centers at the edge of the 5G network
+AWS Device Farm	An application testing service that lets you improve the quality of your web and mobile apps by testing them across an extensive range of desktop browsers and real mobile devices.
+AWS Marketplace	 An online software store that helps customers find, buy, and immediately start using the software and services that run on AWS.
+Amazon Athena	An interactive serverless query service that makes it simple to analyze data directly in Amazon S3 using standard SQL. You can choose to pay based on the queries you run or compute needed by your queries.
+AWS Fargate	A serverless, pay-as-you-go compute engine that lets you focus on building applications without managing servers. 
+AWS Lambda	A serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you.
+Amazon Inspector	An automated vulnerability management service that continually scans Amazon Elastic Compute Cloud (EC2), AWS Lambda functions, and container workloads for software vulnerabilities and unintended network exposure.
+AWS Security Hub	A cloud security posture management (CSPM) service that performs security best practice checks, aggregates alerts, and enables automated remediation.
+AWS Appsync	Enables developers to connect their applications and services to data and events with secure, serverless and high-performing GraphQL and Pub/Sub APIs. 
+Amazon Elastic Container Registry	A fully managed Docker container registry that makes it easy to store, share, and deploy container images.
+Amazon Elastic Container Service	A fully managed container orchestration service that helps you easily deploy, manage, and scale containerized applications.
